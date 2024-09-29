@@ -1,0 +1,75 @@
+/*
+ *    Modular zarqa tables. Learn to leyn, note by note, using interactive zarqa tables
+ *    Copyright (C) 2011 Benjamin Levine
+ *
+ *    This program is free software: you can redistribute it and/or modify
+ *    it under the terms of the GNU General Public License as published by
+ *    the Free Software Foundation, either version 3 of the License, or
+ *   (at your option) any later version.
+ *
+ *   This program is distributed in the hope that it will be useful,
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *   GNU General Public License for more details.
+ *
+ *   You should have received a copy of the GNU General Public License
+ *   along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+image_width,700
+image_height,390
+line_height,55
+rollover_distance,443
+
+qadmo_1,616
+munach_1,557
+zarqo,492
+munach_2,433
+segowl,370
+lgarmay,277
+munach_3,214
+rviia,149
+
+mapach,613
+pashto,540
+munach_4,482
+zokayf_1,434
+zokayf_gadowl,323
+makayl_zoqayf,218
+yaysiv,156
+zokayf_2,109
+
+mayrcho_1,615
+tipcho_1,543
+munach_5,484
+asnach_1,420
+dargo_1,352
+usvir,278
+tipcho_2,205
+mayrcho_2,133
+siluq_1,59
+
+pozayr,637
+tlisho_ktanoh,483
+qadmo_2,413
+ugrish,344
+gayresh,290
+gayrshayim,213
+tlisho_gdowloh,49
+
+mayrcho_3,616
+svir,549
+tipcho_3,477
+asnach_2,411
+maylo,323
+siluq_2,253
+
+shalsheles_jonny,579
+munach_6,515
+galgal,456
+pozayr_godowl,342
+dargo_2,275
+mayrcho_kfuloh,116
+
+tipcho_4,616
+mayrcho_4,544
+sowf_poroshoh,409
